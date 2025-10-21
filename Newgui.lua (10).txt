@@ -87,7 +87,7 @@ local allowedAnimals = {
         "Admin Lucky Block", 
         "Burguro And Fryuro", 
         "Chillin Chili", 
-        "Los Tacoritas", 
+        "Los Mobilis", 
         "Tacorita Bicicleta", 
         "Taco Luckyblock"
 }
