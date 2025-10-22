@@ -1,1 +1,14 @@
-
+{
+  "blacklisted_users": [
+    {
+      "user_id": 11834624,
+      "username": "HesizDevUwU",
+      "reason": "Test"
+    },
+    {
+      "user_id": 987654321,
+      "username": "OtroUsuario",
+      "reason": "Otra razón"
+    }
+  ]
+}
