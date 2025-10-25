@@ -123,7 +123,7 @@ local allowedAnimals = {
         "Chillin Chili",
         "Los Tacoritas",
         "Tacorita Bicicleta",
-        "Taco Luckyblock",
+        "Headless Horseman",
         "Mieteteira Bicicleteira",
         "Los Spooky Combanasionias",
         "La Casa Boo",
